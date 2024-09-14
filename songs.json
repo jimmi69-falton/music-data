@@ -1,0 +1,29 @@
+{
+    "songs": [
+      {
+        "title": "Indie",
+        "artist": "Jimmi K",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/indie.png",
+        "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/indie.mp3"
+      },
+      {
+        "title": "Dont Leave Me",
+        "artist": "Jimmi K",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/don't+leave+me.png",
+        "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/dont-leave-me.mp3"
+      },
+      {
+        "title": "Versus the Moon",
+        "artist": "Jimmi K",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/versus+the+moon.png",
+        "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/versus-the-moon.mp3"
+      },
+      {
+        "title": " Through the H",
+        "artist": "Jimmi K",
+        "imageUrl": "",
+        "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/through-the-h.mp3"
+      }
+    ]
+  }
+  
