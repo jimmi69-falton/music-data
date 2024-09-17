@@ -21,37 +21,37 @@
       {
         "title": " Through the H",
         "artist": "Jimmi K",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/versus+the+moon.png",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/through-the-h.mp3"
       },
       {
         "title": " Infinitely Falling",
         "artist": "Fly By Midnight",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/fly+by+midnight.jpeg",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/Infinitely+Falling+-+Fly+By+Midnight+.mp3"
       },
       {
         "title": " Soft Spot",
         "artist": "keshi",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/soft+spot.jpeg",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/keshi+-+Soft+Spot+.mp3"
       },
       {
         "title": " Never Not",
         "artist": "Lauv",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/Never+Not.jpeg",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/Lauv+-+Never+Not+.mp3"
       },
       {
         "title": " summer",
         "artist": "raph x EJEAN",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/summer.jpeg",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/raph+x+EJEAN+-+summer.mp3"
       },
       {
         "title": " HOPELESS",
         "artist": "raph x kameko",
-        "imageUrl": "",
+        "imageUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/image/summer.jpeg",
         "audioUrl": "https://jimmi-musicdata-bucket.s3.ap-southeast-2.amazonaws.com/audio/raph+x+kameko+-+HOPELESS.mp3"
       }  
     ]
